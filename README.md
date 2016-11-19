@@ -8,6 +8,10 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campai
 
 ### build:
     docker build -t mangirdas/tensorflow-flowers .
+
+    to run:
+    docker run -it  mangirdas/tensorflow-flowers
+
     
 ```
 root@3c45496e48ee:~/tf_files# pwd
